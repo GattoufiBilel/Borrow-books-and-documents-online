@@ -1,0 +1,51 @@
+.tabvue{
+    font-family: monospace; 
+    font-size: large ;
+    text-align: center ;
+    width: 100% ; 
+    border-collapse: collapse ;   
+}
+
+
+.TrBody:hover { 
+    background-color: #f5f5f5;
+  
+}
+
+tr,td,th {
+    border: 2px solid black;
+    height: 50px ; 
+    text-align: center ;  
+}
+
+.Trvue {
+    background-color: #204d74; 
+    text-align: center ;  
+    border-collapse: collapse ; 
+    color: white ; 
+    text-align: center ;
+}
+
+.tfvue , .thvue {
+    text-align: center ;
+}
+/*Table Recherche Livre */
+
+.tabRech{
+    font-family: cursive ; 
+    font-size: large ;
+    text-align: center ;
+    width: 70% ; 
+    border-collapse: collapse ; 
+    border-bottom: #245580 ; 
+}
+
+
+.TrRech{
+    background-color:#c0a16b; 
+    text-decoration: #ffffff ;   
+}
+
+#custom {
+        width: 350px;
+}
